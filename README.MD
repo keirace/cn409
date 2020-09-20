@@ -11,3 +11,4 @@
 - [Blender Guru](https://www.youtube.com/user/AndrewPPrice/videos)
 - [Josh Gambrell](https://www.youtube.com/c/JoshGambrell/videos)
 - [Jayanam](https://www.youtube.com/c/JayAnAm/videos)
+- [The CG Essentials](https://www.youtube.com/c/TheCGEssentials/videos)
