@@ -12,3 +12,4 @@
 - [Josh Gambrell](https://www.youtube.com/c/JoshGambrell/videos)
 - [Jayanam](https://www.youtube.com/c/JayAnAm/videos)
 - [The CG Essentials](https://www.youtube.com/c/TheCGEssentials/videos)
+- [Olav3D] (https://www.youtube.com/c/Olav3D/videos)
