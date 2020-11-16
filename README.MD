@@ -1,7 +1,7 @@
 # cn409
 - Blender 2020 semester 1 class
 
-## youtube blender tutorial channels
+## Youtube Blender Tutorial Channels
 - [Polygon Runway](https://www.youtube.com/c/PolygonRunway/videos)
 - [Polygon Verse](https://www.youtube.com/c/PolygonVerse/videos)
 - [CrossMind Studio](https://www.youtube.com/c/SketchesForHumanity/videos)
