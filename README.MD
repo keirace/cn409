@@ -1,6 +1,6 @@
-# cn409
+# CN409
 **SPECIAL TOPICS IN COMPUTER ENGINEERING II**
-- Blender class 2020 semester 1
+**Blender class 2020 semester 1**
 
 ## Youtube Blender Tutorial Channels
 - [Polygon Runway](https://www.youtube.com/c/PolygonRunway/videos)
