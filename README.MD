@@ -13,3 +13,11 @@
 - [Jayanam](https://www.youtube.com/c/JayAnAm/videos)
 - [The CG Essentials](https://www.youtube.com/c/TheCGEssentials/videos)
 - [Olav3D](https://www.youtube.com/c/Olav3D/videos)
+
+## เนื้อหา
+- [เรียนรู้การใช้โปรแกรม Blender](https://youtu.be/m69ty9QbmUw)
+- [สร้างโมเดล 3D](https://youtu.be/qrVhFbt14v8)
+- [ศึกษาการเพิ่ม Materials ให้กับโมเดล](https://youtu.be/aa38QU6HIgA)
+- [ศึกษาการทำ Animation](https://youtu.be/fs6qk7Tyd40)
+- [Storyboard ของ Animation](https://youtu.be/5IhQktrbuDw)
+- [ความคืบหน้าของ Animation](https://youtu.be/A8aFeeWZUlw)
