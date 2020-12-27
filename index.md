@@ -5,10 +5,8 @@ layout: default
 # CN409
 **SPECIAL TOPICS IN COMPUTER ENGINEERING II**<br />
 **Blender class 2020 semester 1**
-> วิชา CN409 หัวข้อพิเศษทางวิศวกรรมคอมพิวเตอร์ 2 ในภาคการศึกษาที่ 1 ปี พ.ศ. 2563 สอนโดยดร.ชุมพล บุญมี ได้ทำการเรียนการสอนเกี่ยวกับการใช้งานโปรแกรม Blender ซึ่งเป็นโปรแกรมที่ใช้ทำแบบจำลองสามมิติ มาใช้ในการทำแบบจำลองสามมิติ รวมไปถึงแอนิเมชั่น โดยได้มีเนื้อหาต่าง ๆ ที่ได้เรียนดังต่อไปนี้
+> วิชา CN409 หัวข้อพิเศษทางวิศวกรรมคอมพิวเตอร์ 2 ในภาคการศึกษาที่ 1 ปีการศึกษา พ.ศ. 2563 สอนโดยดร.ชุมพล บุญมี ได้ทำการเรียนการสอนเกี่ยวกับการใช้งานโปรแกรม Blender ซึ่งเป็นโปรแกรมที่ใช้ทำแบบจำลองสามมิติ มาใช้ในการทำแบบจำลองสามมิติ รวมไปถึงแอนิเมชั่น โดยได้มีเนื้อหาต่าง ๆ ที่ได้เรียนดังต่อไปนี้
 
-## Final Animation Project
-- [Link to final project video](https://youtu.be/cnGj4jT0lS8)
 
 ## Materials
 - [ศึกษาการใช้โปรแกรม Blender](https://youtu.be/m69ty9QbmUw)
@@ -18,6 +16,8 @@ layout: default
 - [Storyboard ของ Animation](https://youtu.be/5IhQktrbuDw)
 - [ความคืบหน้าของ Animation](https://youtu.be/A8aFeeWZUlw)
 
+## Final Animation Project
+- [Link to final project video](https://youtu.be/cnGj4jT0lS8)
 
 ## Youtube Blender Tutorial Channels
 - [Polygon Runway](https://www.youtube.com/c/PolygonRunway/videos)
