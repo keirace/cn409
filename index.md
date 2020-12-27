@@ -23,7 +23,7 @@ Blender เป็นโปรแกรม open source ที่พัฒนา�
 - [ความคืบหน้าของ Animation](https://youtu.be/A8aFeeWZUlw)
 
 ## Final Animation Project
-> เกี่ยวกับโปรเจ็คท์ [:computer:](https://keirace.github.io/cn409/project.html) <br>
+> :computer: [เกี่ยวกับโปรเจ็คท์](https://keirace.github.io/cn409/project.html) <br>
 - [Link to final project video](https://youtu.be/cnGj4jT0lS8)
 
 ## Youtube Blender Tutorial Channels
