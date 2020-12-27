@@ -12,11 +12,11 @@ layout: default
 
 <img src="https://raw.githubusercontent.com/keirace/cn409/master/images%20from%20final%20project/3.png" width="500px">    <img src="https://raw.githubusercontent.com/keirace/cn409/master/images%20from%20final%20project/4.png" width="500px">  
 
-<img src="https://raw.githubusercontent.com/keirace/cn409/master/images%20from%20final%20project/2.png" width="500px">    <img src="https://raw.githubusercontent.com/eirace/cn409/master/images%20from%20final%20project/5.png" width="500px">
+<img src="https://raw.githubusercontent.com/keirace/cn409/master/images%20from%20final%20project/2.png" width="500px">    <img src="https://raw.githubusercontent.com/keirace/cn409/master/images%20from%20final%20project/5.png" width="500px">
 
 <img src="https://raw.githubusercontent.com/keirace/cn409/master/images%20from%20final%20project/6.png" width="500px">    <img src="https://raw.githubusercontent.com/keirace/cn409/master/images%20from%20final%20project/7.png" width="500px">
 
-<img src="https://raw.githubusercontent.com/keirace/cn409/blob/master/images%20from%20final%20project/8.png" width="500px">    <img src="https://raw.githubusercontent.com/keirace/cn409/master/images%20from%20final%20project/9.png" width="500px">
+<img src="https://raw.githubusercontent.com/keirace/cn409/master/images%20from%20final%20project/8.png" width="500px">    <img src="https://raw.githubusercontent.com/keirace/cn409/master/images%20from%20final%20project/9.png" width="500px">
 
 <img src="https://raw.githubusercontent.com/keirace/cn409/master/images%20from%20final%20project/10.png" width="500px">    <img src="https://raw.githubusercontent.com/keirace/cn409/master/images%20from%20final%20project/11.png" width="500px">
 
