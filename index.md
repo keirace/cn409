@@ -17,6 +17,7 @@ layout: default
 - [ความคืบหน้าของ Animation](https://youtu.be/A8aFeeWZUlw)
 
 ## Final Animation Project
+> [เกี่ยวกับโปรเจ็คท์](/project.md)
 - [Link to final project video](https://youtu.be/cnGj4jT0lS8)
 
 ## Youtube Blender Tutorial Channels
