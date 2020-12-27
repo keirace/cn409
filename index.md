@@ -17,7 +17,7 @@ layout: default
 - [ความคืบหน้าของ Animation](https://youtu.be/A8aFeeWZUlw)
 
 ## Final Animation Project
-> [เกี่ยวกับโปรเจ็คท์](https://keirace.github.io/cn409/project.md)
+> [เกี่ยวกับโปรเจ็คท์](https://github.com/keirace/cn409/blob/master/project.md)
 - [Link to final project video](https://youtu.be/cnGj4jT0lS8)
 
 ## Youtube Blender Tutorial Channels
