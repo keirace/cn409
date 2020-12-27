@@ -29,3 +29,6 @@ layout: default
 - [Jayanam](https://www.youtube.com/c/JayAnAm/videos)
 - [The CG Essentials](https://www.youtube.com/c/TheCGEssentials/videos)
 - [Olav3D](https://www.youtube.com/c/Olav3D/videos)
+
+## Final animation project
+- [Link](https://youtu.be/cnGj4jT0lS8)
