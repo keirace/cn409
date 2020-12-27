@@ -26,4 +26,4 @@ layout: default
 
 <img src="https://github.com/keirace/cn409/blob/master/images%20from%20final%20project/16.png" width="500px">    <img src="https://github.com/keirace/cn409/blob/master/images%20from%20final%20project/17.png" width="500px">
 
-> [สามารถชมได้ที่นี่](https://youtu.be/cnGj4jT0lS8)
+> [สามารถชมวิดีโอได้ที่นี่](https://youtu.be/cnGj4jT0lS8)
