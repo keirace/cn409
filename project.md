@@ -17,6 +17,7 @@ layout: default
 * [การสร้าง animation น้ำไหลอย่างง่าย](https://youtu.be/xIxUZpRk4Ac)
 * [การสร้างโมเดลคน](https://youtu.be/aAO4C_8y0w8)
 * [ศึกษาการใช้ sculpting mode](https://youtu.be/KAwTqpjNhcQ)
+* [การใช้ rig](https://youtu.be/f2pTkW-1JkE)
 * [การสร้างเสื้อผ้าใน Marvelous Designer และ export ไปยัง Blender](https://youtu.be/Rp1G9mIBskI)
 
 ### ตัวอย่างภาพจากโปรเจ็คท์
