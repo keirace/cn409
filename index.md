@@ -23,10 +23,12 @@ Blender เป็นโปรแกรม open source ที่พัฒนา�
 - [Storyboard ของ Animation](https://youtu.be/5IhQktrbuDw)
 - [ความคืบหน้าของ Animation](https://youtu.be/A8aFeeWZUlw)
 
+***
 ## Final Animation Project
-  เกี่ยวกับโปรเจ็คท์ [Click](https://keirace.github.io/cn409/project.html) <br>
+- เกี่ยวกับโปรเจ็คท์ [Click](https://keirace.github.io/cn409/project.html) <br>
 - [Link to final project video](https://youtu.be/cnGj4jT0lS8)
 
+***
 ## Youtube Blender Tutorial Channels
 - [Polygon Runway](https://www.youtube.com/c/PolygonRunway/videos)
 - [Polygon Verse](https://www.youtube.com/c/PolygonVerse/videos)
